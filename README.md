@@ -12,8 +12,8 @@
 
 # 📊 Projeto: Como organizar sua vida Financeira com Planilhas Inteligentes
 
-Fala galera! 😁 Esse trabalho faz parte de uma das atividades desenvolvidas durante o Bootcamp Caixa-IA Generativa com Microsoft Copilot no DIO e foi ministrado por Felipe Aguiar
-Tech Educator, DIO
+Fala galera! 😁 Esse trabalho faz parte de uma das atividades desenvolvidas durante o Bootcamp Caixa-IA Generativa com Microsoft Copilot no DIO e foi ministrado por Felipe Aguiar,
+Tech Educator, DIO.
 
 Tem como objetivo capacitar pessoas a melhorarem o controle de suas finanças usando planilhas inteligentes e recursos de Inteligência Artificial 
 para monitorar gastos, categorizar despesas e estabelecer metas de economia. As planilhas oferecem uma visão prática e personalizada, 
