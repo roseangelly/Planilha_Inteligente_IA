@@ -9,9 +9,6 @@
 
 </p>
 
-<div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
-</div>
 
 # 📊 Projeto: Como organizar sua vida Financeira com Planilhas Inteligentes
 
