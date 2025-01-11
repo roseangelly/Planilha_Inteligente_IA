@@ -1,10 +1,7 @@
 # Planilha_Inteligente
 
 <p align="center">
-<img 
-    src="./Tela.png"
-    width="600"
-/>
+<img src="./Tela.png" width="600">
 </p>
 
 <p align="center">
