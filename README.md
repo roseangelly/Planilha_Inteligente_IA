@@ -2,7 +2,7 @@
 
 <p align="center">
 <img 
-    src="./Sucesso2.webp"
+    src="./Tela.png"
     width="300"
 />
 </p>
