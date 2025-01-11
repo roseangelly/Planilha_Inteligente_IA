@@ -7,10 +7,6 @@
 />
 </p>
 
-
-
-
-
 <p align="center">
     <a href="https://github.com/roseangelly/Planilha_Inteligente_IA/raw/refs/heads/main/Projeto%20Planilha.xlsx> Planilha Inteligente 💵</a>
 
