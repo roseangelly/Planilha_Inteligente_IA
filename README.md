@@ -29,27 +29,19 @@
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
 </div>
 
-# Projeto Podcast Gerado por I.A.s
+# Projeto Como organizar sua vida Financeira com Planilhas Inteligentes e IA
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhados.
+Esse trabalho faz parte de uma das atividades desenvolvidas durante o Bootcamp Caixa-IA Generativa com Microsoft Copilot no DIO e foi ministrado por Felipe Aguiar
+Tech Educator, DIO
 
-Esse trabalho faz parte de uma das atividades desenvolvidas durante o Bootcamp Caixa-IA Generativa com Microsoft Copilot.
+Tem como objetivo capacitar pessoas a melhorarem o controle de suas finanças usando planilhas inteligentes e recursos de Inteligência Artificial 
+para monitorar gastos, categorizar despesas e estabelecer metas de economia. As planilhas oferecem uma visão prática e personalizada, 
+ajudando cada pessoa a tomar decisões financeiras mais informadas e eficientes.
 
-Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
-## 💻 Tecnologias utilizadas no projeto
+## 💻 Ferramenta utilizada no projeto
 
-- [ChatGPT](https://chat.openai.com/) 
-- [LeonardoAI](https://www.app.leonardo.ai//app/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
-
-## ✨ Como foi feito ?
-
-- Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
-- LeonardoAI Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
+- Microsoft Excel
 
 ## 📚 Materiais
 
