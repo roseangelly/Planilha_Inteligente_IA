@@ -3,12 +3,12 @@
 <p align="center">
 <img 
     src="./Tela.png"
-    width="300"
+    width="500"
 />
 </p>
 
 <p align="center">
-    <a href="https://github.com/roseangelly/prompts-for-podcast-generate-by-ia/blob/main/output/O%20tesouro%20do%20bem%20estar.mp3"> EP.1_Caixa dos presentes 🎶Clique aqui para ouvir</a>
+    <a href="https://github.com/roseangelly/> EP.1_Caixa dos presentes 🎶Clique aqui para ouvir</a>
 
 </p>
 
