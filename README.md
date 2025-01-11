@@ -26,15 +26,13 @@ para monitorar gastos, categorizar despesas e estabelecer metas de economia. As 
 ajudando cada pessoa a tomar decisões financeiras mais informadas e eficientes.
 
 
-## 💻 Ferramenta utilizada no projeto
+## 💻 Ferramenta utilizada
 
 - Microsoft Excel
 
-## 📚 Materiais
+## 📚 Material utilizado
 
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://www.notion.so/Podcast-AI-Studio-Caixa-dos-Presentes-1727fb03f42880b38783c566e5efbaf6?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
+- https://hermes.dio.me/files/assets/f631a203-25c9-46c0-8ce9-ce6933cc87b3.xlsx
 
 
 ## 👨‍💻 Aprendiz
