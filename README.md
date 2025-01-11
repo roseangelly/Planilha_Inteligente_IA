@@ -16,8 +16,7 @@
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
 </div>
 
-# 📊 Projeto:
-# Como organizar sua vida Financeira com Planilhas Inteligentes
+# 📊 Projeto: Como organizar sua vida Financeira com Planilhas Inteligentes
 
 Fala galera! 😁 Esse trabalho faz parte de uma das atividades desenvolvidas durante o Bootcamp Caixa-IA Generativa com Microsoft Copilot no DIO e foi ministrado por Felipe Aguiar
 Tech Educator, DIO
