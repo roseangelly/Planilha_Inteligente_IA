@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/roseangelly/> EP.1_Caixa dos presentes 🎶Clique aqui para ouvir</a>
+    <a href="https://github.com/roseangelly/> Planilha Inteligente 💵</a>
 
 </p>
 
