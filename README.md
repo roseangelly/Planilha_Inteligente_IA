@@ -8,19 +8,6 @@
 </p>
 
 <p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
-</a>
-<a href="https://dio.me/">
-<img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
-</a>
-</p>
-
-<p align="center">
     <a href="https://github.com/roseangelly/prompts-for-podcast-generate-by-ia/blob/main/output/O%20tesouro%20do%20bem%20estar.mp3"> EP.1_Caixa dos presentes 🎶Clique aqui para ouvir</a>
 
 </p>
